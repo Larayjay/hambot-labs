@@ -1,0 +1,3 @@
+[submodule "libs/HamBot"]
+	path = libs/HamBot
+	url = https://github.com/biorobaw/HamBot.git
